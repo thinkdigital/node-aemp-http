@@ -1,0 +1,12 @@
+{
+  "name": "aemp-http",
+  "version": "0.0.1",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "aemp-http",
+      "version": "0.0.1"
+    }
+  }
+}

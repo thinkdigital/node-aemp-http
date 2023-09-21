@@ -2,6 +2,7 @@
 	"name"         : "aemp-http",
 	"version"      : "0.0.1",
 	"type"         : "module",
+	"main"         : "lib/index.js",
 	"dependencies" : {
 		"xml-js" : "1.6.11"
 	},

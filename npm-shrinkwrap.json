@@ -1,12 +1,12 @@
 {
   "name": "aemp-http",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
       "name": "aemp-http",
-      "version": "0.0.1",
+      "version": "0.1.0",
       "dependencies": {
         "xml-js": "1.6.11"
       },
